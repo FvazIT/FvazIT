@@ -19,6 +19,7 @@ Hi! I'm **Francisco Vázquez**, a Higher VET student in **Web Application Develo
 
 ### 💻 Lenguajes & Entornos | Languages & Environments
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ### 🔧 Herramientas e IDEs | Tools & IDEs
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -47,8 +48,8 @@ Hi! I'm **Francisco Vázquez**, a Higher VET student in **Web Application Develo
 
 | Proyecto | Descripción | Tecnologías | Enlace |
 | :--- | :--- | :--- | :---: |
-| **[Java-ejercicios]** | *Un compedio de ejercicios para programar en Java.* | `Java` `Git` | [Ver Repositorio](https://github.com/FvazIT/tu-repositorio-1) |
-| **[HTML-ejercicios]** | *Algunos ejercicios de formularios y tablas y * | `Java` `NetBeans` | [Ver Repositorio](https://github.com/FvazIT/tu-repositorio-2) |
+| **[Java-ejercicios]** | *Un compedio de ejercicios para programar en Java.* | `Java` `Git` | [Ver Repositorio](https://github.com/FvazIT/Java-ejercicios) |
+| **[HTML-ejercicios]** | *Algunos ejercicios de formularios y tablas y * | `Java` `NetBeans` | [Ver Repositorio](https://github.com/FvazIT/HTML-ejercicios) |
 
 ---
 
