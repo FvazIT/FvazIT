@@ -52,19 +52,6 @@ Hi! I'm **Francisco Vázquez**, a Higher VET student in **Web Application Develo
 
 ---
 
-## 📊 Estadísticas de GitHub | GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FvazIT&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub de Francisco" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FvazIT&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FvazIT&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" width="97%" />
-</p>
-
----
-
 ## 🎯 Objetivo Profesional | Career Goal
 
 **ES:** Incorporarme al sector tecnológico como **Desarrollador Junior**, integrándome en un equipo técnico donde pueda consolidar bases sólidas, aportar mi capacidad analítica y crecer profesionalmente a través de proyectos reales.
