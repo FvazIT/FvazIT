@@ -49,7 +49,7 @@ Hi! I'm **Francisco Vázquez**, a Higher VET student in **Web Application Develo
 | Proyecto | Descripción | Tecnologías | Enlace |
 | :--- | :--- | :--- | :---: |
 | **[Java-ejercicios]** | *Un compedio de ejercicios para programar en Java.* | `Java` `Git` | [Ver Repositorio](https://github.com/FvazIT/Java-ejercicios) |
-| **[HTML-ejercicios]** | *Algunos ejercicios de formularios y tablas y * | `Java` `NetBeans` | [Ver Repositorio](https://github.com/FvazIT/HTML-ejercicios) |
+| **[HTML-ejercicios]** | *Algunos ejercicios de formularios y tablas y * | `HTML` | [Ver Repositorio](https://github.com/FvazIT/HTML-ejercicios) |
 
 ---
 
