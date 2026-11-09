@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Resumen de FvazIT](https://github-readme-stats.vercel.app/api?username=FvazIT&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000)](https://github.com/FvazIT)
+![GitHub Activity](https://img.shields.io/github/commits-since/FvazIT/FvazIT/HEAD?color=blue&label=Commits%20recientes&style=for-the-badge)
 
 </div>
 
