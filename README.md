@@ -1,3 +1,10 @@
+<div align="center">
+
+[![Resumen de FvazIT](https://github-readme-stats.vercel.app/api?username=FvazIT&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000)](https://github.com/FvazIT)
+
+</div>
+
+
 # Hi there, I'm Francisco Vázquez 👋
 ### 🎓 Student of Web Application Development (DAW) | Full Stack & Databases Enthusiast
 
@@ -12,14 +19,6 @@
 
 **EN:**  
 Hi! I'm **Francisco Vázquez**, a Higher VET student in **Web Application Development (DAW)** at MEDAC. I hold a background in Education (Bachelor's Degree & Master's in Secondary Education), which equips me with key soft skills such as adaptative learning, effective communication, structured problem-solving, and organization. I am currently transitioning into software engineering to grow as a **Junior Web / Full Stack Developer**.
-
----
-
-<div align="center">
-
-[![Estadísticas de FvazIT](https://github-readme-stats.vercel.app/api?username=FvazIT&show_icons=true&theme=radical)](https://github.com/FvazIT) [![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs?username=FvazIT&layout=compact&theme=radical)](https://github.com/FvazIT)
-
-</div>
 
 ---
 
