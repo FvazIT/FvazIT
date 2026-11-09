@@ -63,8 +63,8 @@ Hi! I'm **Francisco Vázquez**, a Higher VET student in **Web Application Develo
 
 | Proyecto | Descripción | Tecnologías | Enlace |
 | :--- | :--- | :--- | :---: |
-| **[Java-ejercicios]** | *Un compedio de ejercicios para programar en Java.* | `Java` `Git` | [Ver Repositorio](https://github.com/FvazIT/Java-ejercicios) |
-| **[HTML-ejercicios]** | *Algunos ejercicios de formularios y tablas* | `HTML` | [Ver Repositorio](https://github.com/FvazIT/HTML-ejercicios) |
+| **[Java-ejercicios]** | *Compendio de ejercicios prácticos orientados a objetos en Java.* | ![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=white) | [Ver Repositorio](https://github.com/FvazIT/Java-ejercicios) |
+| **[HTML-ejercicios]** | *Prácticas de diseño web, formularios avanzados y estructuración de tablas.* | ![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white) | [Ver Repositorio](https://github.com/FvazIT/HTML-ejercicios) |
 
 ---
 
