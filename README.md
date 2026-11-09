@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- TÍTULO DINÁMICO CON EFECTO DE TEXTO -->
+  <!-- TÍTULO DINÁMICO CON EFECTO DE TEXTO -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&height=50&lines=Francisco+V%C3%A1zquez;Estudiante+de+DAW+%7C+Full+Stack;Apasionado+del+Desarrollo+Web" alt="Typing Effect" />
 
   <br>
@@ -9,9 +9,6 @@
   <img src="https://img.shields.io/badge/🚀_Status-Programando_el_Futuro-1F2937?style=for-the-badge&logo=github&logoColor=white" alt="Status Badge" />
 
 </div>
-
-</div>
-
 
 # Hi there, I'm Francisco Vázquez 👋
 ### 🎓 Student of Web Application Development (DAW) | Full Stack & Databases Enthusiast
@@ -66,7 +63,7 @@ Hi! I'm **Francisco Vázquez**, a Higher VET student in **Web Application Develo
 
 | Proyecto | Descripción | Tecnologías | Enlace |
 | :--- | :--- | :--- | :---: |
-| **[Java-ejercicios]** | *Un compendio de ejercicios para programar en Java.* | `Java` `Git` | [Ver Repositorio](https://github.com/FvazIT/Java-ejercicios) |
+| **[Java-ejercicios]** | *Un compedio de ejercicios para programar en Java.* | `Java` `Git` | [Ver Repositorio](https://github.com/FvazIT/Java-ejercicios) |
 | **[HTML-ejercicios]** | *Algunos ejercicios de formularios y tablas* | `HTML` | [Ver Repositorio](https://github.com/FvazIT/HTML-ejercicios) |
 
 ---
