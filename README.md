@@ -11,29 +11,16 @@
 ¡Hola! Soy **Francisco Vázquez**, estudiante del ciclo superior de **Desarrollo de Aplicaciones Web (DAW)** en MEDAC. Cuento con formación universitaria previa (Grado en Magisterio y Máster en Profesorado de Secundaria), lo que me proporciona competencias transversales sólidas como capacidad de aprendizaje adaptativo, comunicación clara, resolución metódica de problemas y organización. Actualmente enfoco mi perfil hacia el desarrollo de software con el objetivo de integrarme como **Desarrollador Web / Full Stack Junior**.
 
 **EN:**  
-# Hi there, I'm Francisco Vázquez 👋
-### 🎓 Student of Web Application Development (DAW) | Full Stack & Databases Enthusiast
-
-📍 **Málaga, Spain** | 🏫 **MEDAC**
-
----
-
-## 👨‍💻 Sobre Mí | About Me
-
-**ES:**  
-¡Hola! Soy **Francisco Vázquez**, estudiante del ciclo superior de **Desarrollo de Aplicaciones Web (DAW)** en MEDAC. Cuento con formación universitaria previa (Grado en Magisterio y Máster en Profesorado de Secundaria), lo que me proporciona competencias transversales sólidas como capacidad de aprendizaje adaptativo, comunicación clara, resolución metódica de problemas y organización. Actualmente enfoco mi perfil hacia el desarrollo de software con el objetivo de integrarme como **Desarrollador Web / Full Stack Junior**.
-
-**EN:**  
 Hi! I'm **Francisco Vázquez**, a Higher VET student in **Web Application Development (DAW)** at MEDAC. I hold a background in Education (Bachelor's Degree & Master's in Secondary Education), which equips me with key soft skills such as adaptative learning, effective communication, structured problem-solving, and organization. I am currently transitioning into software engineering to grow as a **Junior Web / Full Stack Developer**.
 
 ---
 
 <p align="center">
   <a href="https://github.com/FvazIT">
-    <img src="https://github-readme-stats.vercel.app/api?username=FvazIT&show_icons=true&theme=radical" alt="Estadísticas de FvazIT" />
+    <img src="https://github-readme-stats.vercel.app/api?username=FvazIT&amp;show_icons=true&amp;theme=radical" alt="Estadísticas de FvazIT" />
   </a>
   <a href="https://github.com/FvazIT">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FvazIT&layout=compact&theme=radical" alt="Top Lenguajes" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FvazIT&amp;layout=compact&amp;theme=radical" alt="Top Lenguajes" />
   </a>
 </p>
 
@@ -43,7 +30,10 @@ Hi! I'm **Francisco Vázquez**, a Higher VET student in **Web Application Develo
 
 ### 💻 Lenguajes & Entornos | Languages & Environments
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🔧 Herramientas e IDEs | Tools & IDEs
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -72,7 +62,7 @@ Hi! I'm **Francisco Vázquez**, a Higher VET student in **Web Application Develo
 
 | Proyecto | Descripción | Tecnologías | Enlace |
 | :--- | :--- | :--- | :---: |
-| **[Java-ejercicios]** | *Un compedio de ejercicios para programar en Java.* | `Java` `Git` | [Ver Repositorio](https://github.com/FvazIT/Java-ejercicios) |
+| **[Java-ejercicios]** | *Un compendio de ejercicios para programar en Java.* | `Java` `Git` | [Ver Repositorio](https://github.com/FvazIT/Java-ejercicios) |
 | **[HTML-ejercicios]** | *Algunos ejercicios de formularios y tablas* | `HTML` | [Ver Repositorio](https://github.com/FvazIT/HTML-ejercicios) |
 
 ---
@@ -87,7 +77,7 @@ Hi! I'm **Francisco Vázquez**, a Higher VET student in **Web Application Develo
 
 <p align="center">
   <a href="https://github.com/FvazIT">
-    <img src="https://streak-stats.demolab.com/?user=FvazIT&theme=radical" alt="Racha de GitHub" />
+    <img src="https://streak-stats.demolab.com/?user=FvazIT&amp;theme=radical" alt="Racha de GitHub" />
   </a>
 </p>
 
