@@ -15,22 +15,7 @@ Hi! I'm **Francisco Vázquez**, a Higher VET student in **Web Application Develo
 
 ---
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" style="border: none;">
-        <a href="https://github.com/FvazIT">
-          <img src="https://github-readme-stats.vercel.app/api?username=FvazIT&amp;show_icons=true&amp;theme=radical" alt="Estadísticas de FvazIT" />
-        </a>
-      </td>
-      <td align="center" style="border: none;">
-        <a href="https://github.com/FvazIT">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FvazIT&amp;layout=compact&amp;theme=radical" alt="Top Lenguajes" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center"><a href="https://github.com/FvazIT"><img src="https://github-readme-stats.vercel.app/api?username=FvazIT&amp;show_icons=true&amp;theme=radical" alt="Estadísticas de FvazIT" /></a><a href="https://github.com/FvazIT"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=FvazIT&amp;layout=compact&amp;theme=radical" alt="Top Lenguajes" /></a></p>
 
 ---
 
