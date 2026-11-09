@@ -1,6 +1,14 @@
 <div align="center">
 
-![GitHub Activity](https://img.shields.io/github/commits-since/FvazIT/FvazIT/HEAD?color=blue&label=Commits%20recientes&style=for-the-badge)
+<!-- TÍTULO DINÁMICO CON EFECTO DE TEXTO -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&height=50&lines=Francisco+V%C3%A1zquez;Estudiante+de+DAW+%7C+Full+Stack;Apasionado+del+Desarrollo+Web" alt="Typing Effect" />
+
+  <br>
+
+  <!-- INSIGNIA DE ESTADO / BIENVENIDA -->
+  <img src="https://img.shields.io/badge/🚀_Status-Programando_el_Futuro-1F2937?style=for-the-badge&logo=github&logoColor=white" alt="Status Badge" />
+
+</div>
 
 </div>
 
